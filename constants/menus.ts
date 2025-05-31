@@ -20,6 +20,18 @@ export const navMenu: NavMenu[] = [
         link: '/tasks',
         new: true,
       },
+      {
+        title: '預約',
+        icon: 'i-lucide-calendar-check-2',
+        link: '/reservation',
+        new: true,
+      },
+      {
+        title: '借閱紀錄',
+        icon: 'i-lucide-calendar-check-2',
+        link: '/test/history',
+        new: true,
+      },
     ],
   },
   {
